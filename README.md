@@ -13,7 +13,7 @@ I combine scientific research, hands-on engineering, and strategic leadership to
   
 
 ## 📫 Connect
-- LinkedIn: [linkedin.com/in/fadhila-tlili](https://www.linkedin.com/in/fadhila-tlili)  
+- LinkedIn: [linkedin.com/in/fadhilatlili](https://www.linkedin.com/in/fadhilatlili)  
 - ORCID: [0009-0009-0413-0769](https://orcid.org/0009-0009-0413-0769)  
 
 ---
