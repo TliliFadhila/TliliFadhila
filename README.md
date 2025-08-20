@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dr. Fadhila Tlili 👋
 
-<!--
-**TliliFadhila/TliliFadhila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am an artificial intelligence and cybersecurity PhD and expert with a strong background in innovation and advanced digital systems.  
+Currently leading AI and cybersecurity initiatives at a French DeepTech company specializing in **industrial AI/IoT and smart solutions**.  
 
-Here are some ideas to get you started:
+I combine scientific research, hands-on engineering, and strategic leadership to build solutions that are **secure, scalable, and impactful**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔑 Focus Areas
+- **Artificial Intelligence**  
+- **Cybersecurity & Risk Management**  
+- **IoT & Embedded Systems**  
+  
+
+## 📫 Connect
+- LinkedIn: [linkedin.com/in/fadhila-tlili](https://www.linkedin.com/in/fadhila-tlili)  
+- ORCID: [0009-0009-0413-0769](https://orcid.org/0009-0009-0413-0769)  
+
+---
